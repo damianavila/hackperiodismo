@@ -1,0 +1,13 @@
+/*Some css fixes to use night theme with IPython slides*/
+body {
+background-color: #111111;
+}
+.reveal p {
+color: white;
+}
+.reveal ul {
+color: white;
+}
+div.output_area pre {
+color: white;
+}
